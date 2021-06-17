@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623190671 source:c:\users\felipe\documents\mauricio\c\grafffe\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1623178744 source:c:\users\felipe\documents\mauricio\c\grafffe\testes.c
+	<stdio.h>
+	<stdlib.h>
+
